@@ -1,42 +1,45 @@
-# Fn28Chen
-
-<h1 align="center">Hi, I'm Fn28Chen</h1>           
-    
-<p align="center" justify="center">
-     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00FFFF&width=100&lines=呂氏春秋" alt="Typing SVG"/>
- </p>
-  
-
-## 🙋‍♂️ About Me  
-
-- 💻 **I'm PhongZK.** 
-- 👀 **I’m interested in Web Developer**
-- 🌱 **I’m currently learning everything, especially ReactJS and NextJS.**
-- ⬆️ **My portfolio: https://phong28zk.me**
-
-## GitHub Stats
-<div align="center" display="flex">
-    <img src="./github-metrics.svg" style="margin: 10px;"/>
-</div>
-
-
-
-## 🚀 Languages/Frameworks and Tools: 
+<h1 align="center">Hi, I'm Tran Phong</h1>
 
 <p align="center">
-     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48"/> </a>
-     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://user-images.githubusercontent.com/82562559/189319194-55e984e0-f0e5-4d2c-9676-48fc5b2ca815.png" alt="cplusplus" width="48" height="48"/> </a> 
-     <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Leon28Phongretzka/Leon28Phongretzka/22c78328a95910b6144de839d37466c84ca709c2/javascript-logo.svg" alt="js" width="48" height="48"/> </a> 
-     <a href="https://www.typescriptlang.org/branding/"> <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="48" height="48"></a>
-     <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz34OmNVyIMh1rguNfXC3MBk7Qq3DTduJVVg&s" alt="reactjs" width="48" height="48"/> </a> 
-     <a href="https://nextjs.org" target="_blank"> <img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png" alt="nextjs" width="48" height="48"/> </a>    
- </p>
-<br/>
+  <strong>AI Agentic Engineer · Frontend Developer</strong><br/>
+  Building LLM-powered systems and modern web apps from Hanoi, Vietnam
+</p>
 
-## 🤝Connect with me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/fn28chen/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fcmunchen1901@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://phong28zk.me"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white"/></a>
+</p>
 
-<p align="center">   
-  <a href="https://twitter.com/DavidLezis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dercaucher" height="30" width="40" /></a>    
-  <a href="https://www.facebook.com/fn28chen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eltvlinr" height="30" width="40" /></a>    
-  <a href="https://www.instagram.com/fn.28.chen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.8.rzk" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/fn28chen/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt='lg28szp' heigh='30' width='40'/></a>
+---
+
+### About
+
+- Building AI agents with **Anthropic API**, **MCP servers**, and orchestration patterns
+- Frontend at scale — **React 19**, **Next.js**, **TanStack Query**, **MUI**, **Tailwind**
+- Backend with **NestJS**, **Prisma**, **PostgreSQL**, **Redis**
+- Currently shipping: AI-driven ERP builder, RAG pipelines, design systems
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-4A90E2?logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white"/>
+</p>
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phong28zk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phong28zk&theme=tokyonight&hide_border=true"/>
+</p>
